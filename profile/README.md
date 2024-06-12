@@ -26,7 +26,7 @@ FrogFund aims to create a decentralized, transparent, and fair crowdfunding plat
 - **Funding Rewards**: Investors can receive frog-related rewards such as Efrogs NFTs and $CROAK memecoin.
 - **Social Media Promotion**: Crowdfunding projects' promotional content includes frog emojis and hashtags.
 
-## MVP Business Process
+## Business Process
 1. **Project Creation and Display**:
     - **Registration and Login**: Creative projects and businesses register accounts by connecting their wallets.
     - **Create Project**: Project initiators create crowdfunding projects on the platform, filling in detailed information and funding goals.
