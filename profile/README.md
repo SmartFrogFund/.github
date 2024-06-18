@@ -82,4 +82,12 @@ FrogFund envisions creating a decentralized, transparent, and fair crowdfunding 
    - **Notification System**: Investors can choose to receive notifications for project updates and listen to contract approval events.
    - **Progress Reports**: Project initiators periodically publish detailed progress reports, including financial status, project progress, and next steps.
    - **Community Interaction**: Investors can comment and suggest on the platform, interact with project initiators and other investors, forming an active community. (Future)
+## Business flowchart:
+![wrokflow](./img/wrokflow.png)
+## Approval flowchart:
+![review](./img/review.png)
 
+## Planning development content:
+1. Collect fund handling fees to ensure the profitability and survival of the crowdfunding platform
+2. Open social system allows users to recruit investors more freely
+3. Project like function.The most popular projects are evaluated every quarter
