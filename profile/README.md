@@ -91,3 +91,4 @@ FrogFund envisions creating a decentralized, transparent, and fair crowdfunding 
 1. Collect fund handling fees to ensure the profitability and survival of the crowdfunding platform
 2. Open social system allows users to recruit investors more freely
 3. Project like function.The most popular projects are evaluated every quarter
+4. Develop various types of crowdfunding projects, ranging from developer-centric initiatives to charitable causes such as rescuing cats and dogs.
